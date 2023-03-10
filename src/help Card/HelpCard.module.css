@@ -1,0 +1,62 @@
+.helpCard{
+    margin-top: 50px;
+    background: #62D0DF;
+}
+.girl{
+    margin-left: 994px;
+}
+.more{
+    position: absolute;
+    color: white;
+    left: 200px;
+    top: 900px;
+}
+.here{
+    font-size: 20px;
+    color: white;
+}
+.fol{
+    position: absolute;
+    left: 150px;
+ color:  white;
+ margin-left: 50px;
+ font-size: 40px;
+ top: 800px;
+}
+.about{
+    color: #22356F;
+    margin-right: 200px;
+}
+.white{
+    background-color: #ffff;
+}
+.sdf{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 150px;
+    right: 150px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #22356F;
+}
+.we{
+    color: #22356F80;
+ margin-top: 300px;
+ margin-left: 580px;
+}
+.between nav li{
+    display: flex;
+    justify-content: space-between;
+    color: #ffff;
+}
+.sixcub,.cubsix{
+    display: flex;
+    justify-content: space-between;
+    color: #ffff;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sixcub{
+    margin-top: 100px;
+}
+
